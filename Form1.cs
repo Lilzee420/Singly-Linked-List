@@ -118,7 +118,7 @@ namespace Linked_List
                 }
             }
 
-            // this arranges the data numerically (lowest to highest)
+            // this arranges the linked list numerically (lowest to highest)
             public void Arrange()
             {
                 if (head == null || head.Next == null)
