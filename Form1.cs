@@ -257,7 +257,6 @@ namespace Linked_List
                     text = text + current.Value + " ";
                     current = current.Next;
                 }
-                Console.WriteLine();
                 return text;
             }
 
